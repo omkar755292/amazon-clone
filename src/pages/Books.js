@@ -7,7 +7,7 @@ const Books = () => {
     <div className='book_page'>
       <BookNav />
       <div className='book_heading'>
-        <strong>Books at Amazon</strong>
+        <strong>Books at Amazon Store</strong>
         <small>Our best-selling new and future releases. Updated frequently.</small>
       </div>
       <div className='book_section'>
