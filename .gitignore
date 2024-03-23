@@ -4,12 +4,16 @@
 /node_modules
 /.pnp
 .pnp.js
+.env
 
 # testing
 /coverage
 
 # production
 /build
+/amazon.clone
+deploy.sh
+setup.sh
 
 # misc
 .DS_Store
