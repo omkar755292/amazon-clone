@@ -11,7 +11,7 @@
 
 # production
 /build
-/amazon.clone
+/amazon-clone
 deploy.sh
 setup.sh
 
